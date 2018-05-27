@@ -14,7 +14,7 @@ p {
 
 /*NAV - Burgermenu*/
 
-.main-nav {
+.main-nav li {
     list-style-type: none;
 }
 
