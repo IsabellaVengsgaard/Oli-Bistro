@@ -496,7 +496,13 @@ h2 {
 /**** MEDIA QUERIES ****/
 
     {
-
+.forsg {
+    background: url(/images/chalkboard.jpg);
+    background-size: cover;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
     #logo-burger label {
         display: block;
         font-size: 2em;
@@ -563,6 +569,13 @@ h2 {
         position: absolute;
         transform: translate(120%, -150%);
     }
+    .forsg {
+    background: url(/images/chalkboard.jpg);
+    background-size: cover;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
 }
 
 /*-------Tablet---------------------------------------------------------*/
@@ -713,6 +726,13 @@ h2 {
         justify-content: center;
         justify-content: space-around;
     }
+    .forsg {
+    background: url(/images/chalkboard.jpg);
+    background-size: cover;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
 }
 
 
