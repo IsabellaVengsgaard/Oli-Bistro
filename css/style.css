@@ -473,7 +473,7 @@ h2 {
 }
 
 .forsg {
-    background-image: url(/images/chalkboard.jpg);
+    background-image: url("/images/chalkboard.jpg");
     background-size: cover;
     margin-bottom: 10px;
     padding-top: 10px;
@@ -852,7 +852,7 @@ h2 {
         margin-right: 0px;
     }
     .forsg {
-        background-image: url(/images/chalkboard4.jpg);
+        background-image: url("/images/chalkboard4.jpg");
         background-size: cover;
         margin-bottom: 10px;
         padding-top: 10px;
