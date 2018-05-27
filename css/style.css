@@ -473,6 +473,7 @@ h2 {
 }
 
 .forsg {
+    z-index: 1;
     background-image: url("../images/chalkboard.jpg");
     background-size: cover;
     margin-bottom: 10px;
@@ -852,6 +853,7 @@ h2 {
         margin-right: 0px;
     }
     .forsg {
+        z-index: 1;
         background-image: url("../images/chalkboard4.jpg");
         background-size: cover;
         margin-bottom: 10px;
