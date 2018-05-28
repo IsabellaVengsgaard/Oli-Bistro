@@ -14,10 +14,10 @@ p {
 
 /*NAV - Burgermenu*/
 
+
 ul {
     list-style-type: none;
 }
-
 #main-header {
     background: rgba(125, 162, 187, 0.6);
     position: absolute;
@@ -374,6 +374,7 @@ p {
     padding: 10px;
     text-align: center;
     margin-bottom: 10%;
+    width:
 }
 
 /*FOOTER*/
@@ -473,8 +474,7 @@ h2 {
 }
 
 .forsg {
-    z-index: 1;
-    background-image: url(../images/chalkboard.jpg);
+    background: url("../images/chalkboard.jpg");
     background-size: cover;
     margin-bottom: 10px;
     padding-top: 10px;
@@ -493,10 +493,13 @@ h2 {
     border-radius: 80%;
 }
 
+
+/*Mobile*/
 @media all and (max-width: 580px)
 /**** MEDIA QUERIES ****/
 
     {
+
     #logo-burger label {
         display: block;
         font-size: 2em;
@@ -563,13 +566,15 @@ h2 {
         position: absolute;
         transform: translate(120%, -150%);
     }
-   
+    
 }
 
 /*-------Tablet---------------------------------------------------------*/
 
 @media screen and (min-width: 768px) {
-
+.main-nav {
+    list-style-type: none;
+}
     #main-header {
         margin-top: 22px;
     }
@@ -666,6 +671,7 @@ h2 {
         margin-right: auto;
     }
 
+    .
     /*Menukort------------------------------*/
     .menu2 img {
         width: 50%;
@@ -714,9 +720,7 @@ h2 {
         justify-content: center;
         justify-content: space-around;
     }
-  
 }
-
 
 /*LAPTOP*/
 
@@ -852,9 +856,8 @@ h2 {
         transform: translate(1%, 5%);
         margin-right: 0px;
     }
- .forsg {
-        z-index: 1;
-        background-image: url(../images/chalkboard4.jpg);
+    .forsg {
+        background-image: url("../images/chalkboard.jpg");
         background-size: cover;
         margin-bottom: 10px;
         padding-top: 10px;
