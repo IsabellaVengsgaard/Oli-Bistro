@@ -14,8 +14,8 @@ p {
 
 /*NAV - Burgermenu*/
 
-.main-header ul {
-    list-style: none;
+ul {
+    list-style-type: none;
 }
 
 #main-header {
