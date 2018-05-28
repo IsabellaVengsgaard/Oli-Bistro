@@ -474,7 +474,7 @@ h2 {
 }
 
 .forsg {
-    background: url("../images/chalkboard.jpg");
+    background-image: url("../images/chalkboard.jpg");
     background-size: cover;
     margin-bottom: 10px;
     padding-top: 10px;
@@ -482,7 +482,7 @@ h2 {
 }
 
 .videocontanier {
-    background-image: url(/images/elisha.jpg);
+    background-image: url(../images/elisha.jpg);
     background-size: cover
 }
 
